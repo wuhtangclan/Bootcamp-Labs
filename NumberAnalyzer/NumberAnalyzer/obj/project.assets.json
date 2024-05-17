@@ -8,7 +8,7 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\twuh.HMS\\.nuget\\packages\\": {}
+    "C:\\Users\\wuhta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "C:\\LearnToCode\\Bootcamp-Labs\\NumberAnalyzer\\NumberAnalyzer\\NumberAnalyzer.csproj",
       "projectName": "NumberAnalyzer",
       "projectPath": "C:\\LearnToCode\\Bootcamp-Labs\\NumberAnalyzer\\NumberAnalyzer\\NumberAnalyzer.csproj",
-      "packagesPath": "C:\\Users\\twuh.HMS\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\wuhta\\.nuget\\packages\\",
       "outputPath": "C:\\LearnToCode\\Bootcamp-Labs\\NumberAnalyzer\\NumberAnalyzer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\twuh.HMS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\wuhta\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
